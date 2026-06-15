@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "n8n-manager-plugins",
+  "description": "Marketplace for the n8n-manager Claude Code plugin",
+  "owner": {
+    "name": "restmimas-pixel"
+  },
+  "plugins": [
+    {
+      "name": "n8n-manager",
+      "source": ".",
+      "description": "Manage n8n Cloud workflows from Claude Code — list, view, create/update, activate/deactivate, check executions, and trigger workflows via the n8n REST API.",
+      "category": "automation"
+    }
+  ]
+}
