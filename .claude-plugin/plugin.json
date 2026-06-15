@@ -1,0 +1,6 @@
+{
+  "name": "n8n-manager",
+  "description": "Manage n8n Cloud workflows from Claude Code — list, view, create/update, activate/deactivate, check executions, and trigger workflows via the n8n REST API.",
+  "version": "0.1.0",
+  "keywords": ["n8n", "automation", "workflow"]
+}
